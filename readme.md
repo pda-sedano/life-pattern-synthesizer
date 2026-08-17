@@ -1,0 +1,1 @@
+Vector graphics -> rasterize -> create coordinate list -> synthesize in Life.
